@@ -1,6 +1,6 @@
 # gltf-pipeline-docker
 
-Dockerized version og gltf-pipeline tool (https://github.com/AnalyticalGraphicsInc/gltf-pipeline)
+Dockerized version of gltf-pipeline tool (https://github.com/AnalyticalGraphicsInc/gltf-pipeline)
 
 Docker build:
 
